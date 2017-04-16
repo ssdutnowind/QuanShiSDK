@@ -1,0 +1,16 @@
+{
+  "name": "sdk",
+  "version": "1.0.0",
+  "description": "No",
+  "main": "sdk",
+  "dependencies": {},
+  "devDependencies": {
+    "ffi": "^2.2.0",
+    "ref": "^1.3.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
